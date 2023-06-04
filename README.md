@@ -7,6 +7,7 @@
 + MLLIB
 + # R
 
+
 👋 Hello! I'm Davi, a passionate Data Science student! 📊
 
 💻 I'm constantly exploring the world of data and seeking valuable insights. My love for science and analysis combined with technical skills drives me to tackle complex challenges.
@@ -22,3 +23,5 @@ or contatosdavi0@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davsales&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davsales&layout=pie&theme=dark)](https://github.com/davsales/github-readme-stats)
+
+![snake gif](https://github.com/DavSales/DavSales/blob/output/github-contribution-grid-snake.gif)
